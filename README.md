@@ -1,1 +1,2 @@
-# solo-farming-in-the-tower
+# Solo Farming In The Tower
+Un beau jour, une tour mystérieuse apparut soudainement dans la ville. Les habitants décidèrent de l'appeler "donjon", et bien qu'elle soit remplie de terrains accidentés et de monstres dangereux, c'est aussi une terre d'opportunités, où d'innombrables trésors attendent. Lorsque Sejun, un jeune homme à la vie ordinaire, est invité par hasard dans le donjon, il est ravi à l'idée de devenir riche, mais il se retrouve coincé dans une zone cachée de la mystérieuse tour. Tout ce qu'il possède, ce sont quelques graines et son corps. Sejun doit maintenant cultiver, collecter des ressources et trouver sa propre stratégie de survie !
